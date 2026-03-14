@@ -1,6 +1,6 @@
-# x.y - Template
+# M.1 - Atom Optics
 
-Repository for "Template".
+Repository for "Atom Optics".
 
 
 ## Use instructions
